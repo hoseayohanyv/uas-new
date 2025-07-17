@@ -4,7 +4,7 @@
 - Nama:Hosea Yohan Yehuda vicharist
 - NIM:221080200075
 - Kelas:6B4
-- Repo GitHub: []
+- Repo GitHub: [https://github.com/hoseayohanyv/uas-new.git]
 
 ---
 
